@@ -1,0 +1,9 @@
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\bin\Debug\tamrin2.calculator.exe.config
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\bin\Debug\tamrin2.calculator.exe
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\bin\Debug\tamrin2.calculator.pdb
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\obj\Debug\tamrin2.calculator.csprojResolveAssemblyReference.cache
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\obj\Debug\tamrin2.calculator.form1.resources
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\obj\Debug\tamrin2.calculator.Properties.Resources.resources
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\obj\Debug\tamrin2.calculator.csproj.GenerateResource.Cache
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\obj\Debug\tamrin2.calculator.exe
+E:\university\c#\my cods\tamrin2.calculator\tamrin2.calculator\obj\Debug\tamrin2.calculator.pdb
